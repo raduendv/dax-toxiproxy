@@ -1,0 +1,9 @@
+bin/
+*.pid
+*.log
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+obj/
+target/

@@ -1,0 +1,8 @@
+[
+  {
+    "name": "example_app_test_service_1",
+    "listen": "127.0.0.1:18080",
+    "upstream": "service.internal:8080",
+    "enabled": true
+  }
+]
